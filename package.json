@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/janecakemaster/personalpom/issues"
   },
-  "homepage": "https://github.com/janecakemaster/personalpom"
+  "homepage": "https://github.com/janecakemaster/personalpom",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
