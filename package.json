@@ -1,0 +1,22 @@
+{
+  "name": "personal-pomodoro",
+  "version": "1.0.0",
+  "description": "personal pomodoro timer",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janecakemaster/personalpom.git"
+  },
+  "keywords": [
+    "productivity"
+  ],
+  "author": "@janecakemaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janecakemaster/personalpom/issues"
+  },
+  "homepage": "https://github.com/janecakemaster/personalpom"
+}
